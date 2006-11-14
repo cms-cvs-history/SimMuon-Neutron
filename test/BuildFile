@@ -1,0 +1,12 @@
+<environment>
+  <use name=SimMuon/Neutron>
+  <use name=SimDataFormats/TrackingHit>
+  <bin file=RootNeutronTest.cpp></bin>
+</environment>
+
+<environment>
+  <use name=SimMuon/Neutron>
+  <use name=SimDataFormats/TrackingHit>
+  <bin file=NeutronReaderTest.cpp></bin>
+</environment>
+
